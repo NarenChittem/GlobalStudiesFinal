@@ -1,2 +1,3 @@
 # GlobalStudiesFinal
 Global Studies Final Project 
+The data in the the 'dataa.xls' and 'data.xls' files are  from the National Bureau of Statistics of China. (2019). China Statistical Yearbook 2019 sections 4-15 and 4-16. The Yearbook is all images so the data was transcribed into excel. The data for other nations was taken from the websites cited in the appendix and converted into yuan. The percent change was calculated with the percent change formula. The code is just 'plt' plots to create the graphical representation present in the paper. The code has more graphs than were used in the final paper as all of them were not needed.   
